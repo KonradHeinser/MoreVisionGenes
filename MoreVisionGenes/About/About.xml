@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>More Vision Genes</name>
+  <author>alite</author>
+  <packageId>MoreBiotechStyleGenes.Vision</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  
+  <modDependencies>
+    <li>
+      <packageId>ludeon.rimworld.biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+  </modDependencies>
+
+  <loadAfter>
+    <li>Ludeon.RimWorld.Biotech</li>
+  </loadAfter>
+
+  <description>
+Adds 5 new genes related to the Nearsighted gene, 3 Farsighted genes and 2 Nearsighted genes.
+
+Very Farsighted: 10% Short range accuracy, 25% Medium range accuracy
+Farsighted: 25% Short range accuracy, 50% Medium range accuracy
+Slightly Farsighted: 50% Short range accuracy, 75% Medium range accuracy
+Slightly Nearsighted: 50% Long range accuracy, 75% Medium range accuracy
+Very Nearsighted: 10% Long range accuracy, 25% Medium range accuracy
+
+Included in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870]More Biotech Style Genes - All in One[/url]
+
+[url=https://discord.gg/fYP8qkcNDh]Discord link[/url] for those who want an easier way to ask questions, make requests, or just chat. I'll also be posting new releases there.
+
+[url=https://steamcommunity.com/id/alite/myworkshopfiles/?appid=294100]Easy link to all of my Rimworld mods[/url]
+
+[url=https://github.com/KonradHeinser/MoreVisionGenes][img]https://i.imgur.com/kTkpTOE.png[/img][/url]
+[url=https://ko-fi.com/alite56114][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
+  </description>
+</ModMetaData>
+
