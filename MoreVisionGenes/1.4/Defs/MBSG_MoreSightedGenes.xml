@@ -62,9 +62,9 @@
 
   <GeneDef>
     <defName>SlightlyFarsighted</defName>
-    <label>slightly nearsighted</label>
+    <label>slightly farsighted</label>
     <iconPath>MBSG/Gene_Farsighted</iconPath>
-    <description>Carriers of this gene have difficulty seeing at a distance. Their shooting accuracy at short ranges is slightly reduced.</description>
+    <description>Carriers of this gene have difficulty seeing near themselves. Their shooting accuracy at short ranges is slightly reduced.</description>
     <displayCategory>Miscellaneous</displayCategory>
     <displayOrderInCategory>49.8</displayOrderInCategory>
     <statFactors>
@@ -94,7 +94,7 @@
     <defName>Farsighted</defName>
     <label>farsighted</label>
     <iconPath>MBSG/Gene_Farsighted</iconPath>
-    <description>Carriers of this gene have difficulty seeing at a distance. Their shooting accuracy at short ranges is reduced.</description>
+    <description>Carriers of this gene have difficulty seeing near themselves. Their shooting accuracy at short ranges is reduced.</description>
     <displayCategory>Miscellaneous</displayCategory>
     <displayOrderInCategory>49.7</displayOrderInCategory>
     <statFactors>
@@ -124,7 +124,7 @@
     <defName>VeryFarsighted</defName>
     <label>very farsighted</label>
     <iconPath>MBSG/Gene_Farsighted</iconPath>
-    <description>Carriers of this gene have difficulty seeing at a distance. Their shooting accuracy at short ranges is greatly reduced.</description>
+    <description>Carriers of this gene have difficulty seeing near themselves. Their shooting accuracy at short ranges is greatly reduced.</description>
     <displayCategory>Miscellaneous</displayCategory>
     <displayOrderInCategory>49.6</displayOrderInCategory>
     <statFactors>
