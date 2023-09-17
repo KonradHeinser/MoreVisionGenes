@@ -68,6 +68,7 @@
     <displayCategory>Miscellaneous</displayCategory>
     <displayOrderInCategory>49.8</displayOrderInCategory>
     <statFactors>
+      <ShootingAccuracyFactor_Touch>0.25</ShootingAccuracyFactor_Touch>
       <ShootingAccuracyFactor_Short>0.5</ShootingAccuracyFactor_Short>
       <ShootingAccuracyFactor_Medium>0.75</ShootingAccuracyFactor_Medium>
     </statFactors>
@@ -98,6 +99,7 @@
     <displayCategory>Miscellaneous</displayCategory>
     <displayOrderInCategory>49.7</displayOrderInCategory>
     <statFactors>
+      <ShootingAccuracyFactor_Touch>0.1</ShootingAccuracyFactor_Touch>
       <ShootingAccuracyFactor_Short>0.25</ShootingAccuracyFactor_Short>
       <ShootingAccuracyFactor_Medium>0.5</ShootingAccuracyFactor_Medium>
     </statFactors>
@@ -128,6 +130,7 @@
     <displayCategory>Miscellaneous</displayCategory>
     <displayOrderInCategory>49.6</displayOrderInCategory>
     <statFactors>
+      <ShootingAccuracyFactor_Touch>0.01</ShootingAccuracyFactor_Touch>
       <ShootingAccuracyFactor_Short>0.1</ShootingAccuracyFactor_Short>
       <ShootingAccuracyFactor_Medium>0.25</ShootingAccuracyFactor_Medium>
     </statFactors>
