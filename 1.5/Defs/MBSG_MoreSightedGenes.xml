@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <GeneDef>
+    <defName>VeryNearsighted</defName>
+    <label>very nearsighted</label>
+    <iconPath>UI/Icons/Genes/Gene_Nearsighted</iconPath>
+    <description>Carriers of this gene have difficulty seeing at a distance. Their shooting accuracy at long ranges is greatly reduced.</description>
+    <displayCategory>Miscellaneous</displayCategory>
+    <displayOrderInCategory>50.1</displayOrderInCategory>
+    <statFactors>
+      <ShootingAccuracyFactor_Long>0.1</ShootingAccuracyFactor_Long>
+      <ShootingAccuracyFactor_Medium>0.25</ShootingAccuracyFactor_Medium>
+    </statFactors>
+    <biostatMet>3</biostatMet>
+    <exclusionTags>
+      <li>ShootingAccuracy</li>
+    </exclusionTags>
+    <symbolPack>
+      <prefixSymbols>
+        <li><symbol>blind</symbol></li>
+        <li><symbol>blur</symbol></li>
+        <li><symbol>squint</symbol></li>
+        <li><symbol>peek</symbol></li>
+        <li><symbol>cross</symbol></li>
+      </prefixSymbols>
+      <suffixSymbols>
+        <li><symbol>sighter</symbol></li>
+        <li><symbol>peeker</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>SlightlyNearsighted</defName>
+    <label>slightly nearsighted</label>
+    <iconPath>UI/Icons/Genes/Gene_Nearsighted</iconPath>
+    <description>Carriers of this gene have difficulty seeing at a distance. Their shooting accuracy at long ranges is greatly reduced.</description>
+    <displayCategory>Miscellaneous</displayCategory>
+    <displayOrderInCategory>49.9</displayOrderInCategory>
+    <statFactors>
+      <ShootingAccuracyFactor_Long>0.5</ShootingAccuracyFactor_Long>
+      <ShootingAccuracyFactor_Medium>0.75</ShootingAccuracyFactor_Medium>
+    </statFactors>
+    <biostatMet>1</biostatMet>
+    <exclusionTags>
+      <li>ShootingAccuracy</li>
+    </exclusionTags>
+    <symbolPack>
+      <prefixSymbols>
+        <li><symbol>blind</symbol></li>
+        <li><symbol>blur</symbol></li>
+        <li><symbol>squint</symbol></li>
+        <li><symbol>peek</symbol></li>
+        <li><symbol>cross</symbol></li>
+      </prefixSymbols>
+      <suffixSymbols>
+        <li><symbol>sighter</symbol></li>
+        <li><symbol>peeker</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>SlightlyFarsighted</defName>
+    <label>slightly farsighted</label>
+    <iconPath>MBSG/Gene_Farsighted</iconPath>
+    <description>Carriers of this gene have difficulty seeing near themselves. Their shooting accuracy at short ranges is slightly reduced.</description>
+    <displayCategory>Miscellaneous</displayCategory>
+    <displayOrderInCategory>49.8</displayOrderInCategory>
+    <statFactors>
+      <ShootingAccuracyFactor_Touch>0.25</ShootingAccuracyFactor_Touch>
+      <ShootingAccuracyFactor_Short>0.5</ShootingAccuracyFactor_Short>
+      <ShootingAccuracyFactor_Medium>0.75</ShootingAccuracyFactor_Medium>
+    </statFactors>
+    <biostatMet>1</biostatMet>
+    <exclusionTags>
+      <li>ShootingAccuracy</li>
+    </exclusionTags>
+    <symbolPack>
+      <prefixSymbols>
+        <li><symbol>blind</symbol></li>
+        <li><symbol>blur</symbol></li>
+        <li><symbol>squint</symbol></li>
+        <li><symbol>peek</symbol></li>
+        <li><symbol>cross</symbol></li>
+      </prefixSymbols>
+      <suffixSymbols>
+        <li><symbol>sighter</symbol></li>
+        <li><symbol>peeker</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>Farsighted</defName>
+    <label>farsighted</label>
+    <iconPath>MBSG/Gene_Farsighted</iconPath>
+    <description>Carriers of this gene have difficulty seeing near themselves. Their shooting accuracy at short ranges is reduced.</description>
+    <displayCategory>Miscellaneous</displayCategory>
+    <displayOrderInCategory>49.7</displayOrderInCategory>
+    <statFactors>
+      <ShootingAccuracyFactor_Touch>0.1</ShootingAccuracyFactor_Touch>
+      <ShootingAccuracyFactor_Short>0.25</ShootingAccuracyFactor_Short>
+      <ShootingAccuracyFactor_Medium>0.5</ShootingAccuracyFactor_Medium>
+    </statFactors>
+    <biostatMet>2</biostatMet>
+    <exclusionTags>
+      <li>ShootingAccuracy</li>
+    </exclusionTags>
+    <symbolPack>
+      <prefixSymbols>
+        <li><symbol>blind</symbol></li>
+        <li><symbol>blur</symbol></li>
+        <li><symbol>squint</symbol></li>
+        <li><symbol>peek</symbol></li>
+        <li><symbol>cross</symbol></li>
+      </prefixSymbols>
+      <suffixSymbols>
+        <li><symbol>sighter</symbol></li>
+        <li><symbol>peeker</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>VeryFarsighted</defName>
+    <label>very farsighted</label>
+    <iconPath>MBSG/Gene_Farsighted</iconPath>
+    <description>Carriers of this gene have difficulty seeing near themselves. Their shooting accuracy at short ranges is greatly reduced.</description>
+    <displayCategory>Miscellaneous</displayCategory>
+    <displayOrderInCategory>49.6</displayOrderInCategory>
+    <statFactors>
+      <ShootingAccuracyFactor_Touch>0.01</ShootingAccuracyFactor_Touch>
+      <ShootingAccuracyFactor_Short>0.1</ShootingAccuracyFactor_Short>
+      <ShootingAccuracyFactor_Medium>0.25</ShootingAccuracyFactor_Medium>
+    </statFactors>
+    <biostatMet>3</biostatMet>
+    <exclusionTags>
+      <li>ShootingAccuracy</li>
+    </exclusionTags>
+    <symbolPack>
+      <prefixSymbols>
+        <li><symbol>blind</symbol></li>
+        <li><symbol>blur</symbol></li>
+        <li><symbol>squint</symbol></li>
+        <li><symbol>peek</symbol></li>
+        <li><symbol>cross</symbol></li>
+      </prefixSymbols>
+      <suffixSymbols>
+        <li><symbol>sighter</symbol></li>
+        <li><symbol>peeker</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+  </GeneDef>
+</Defs>
